@@ -31,3 +31,9 @@ C:\Users\senas\HayvanCikabilir\apps\api\HayvanCikabilir.Api\obj\Debug\net10.0\re
 C:\Users\senas\HayvanCikabilir\apps\api\HayvanCikabilir.Api\obj\Debug\net10.0\HayvanCikabilir.Api.pdb
 C:\Users\senas\HayvanCikabilir\apps\api\HayvanCikabilir.Api\obj\Debug\net10.0\HayvanCikabilir.Api.genruntimeconfig.cache
 C:\Users\senas\HayvanCikabilir\apps\api\HayvanCikabilir.Api\obj\Debug\net10.0\ref\HayvanCikabilir.Api.dll
+C:\Users\senas\HayvanCikabilir\apps\api\HayvanCikabilir.Api\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\senas\HayvanCikabilir\apps\api\HayvanCikabilir.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\senas\HayvanCikabilir\apps\api\HayvanCikabilir.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\senas\HayvanCikabilir\apps\api\HayvanCikabilir.Api\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\senas\HayvanCikabilir\apps\api\HayvanCikabilir.Api\bin\Debug\net10.0\Npgsql.dll
+C:\Users\senas\HayvanCikabilir\apps\api\HayvanCikabilir.Api\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
